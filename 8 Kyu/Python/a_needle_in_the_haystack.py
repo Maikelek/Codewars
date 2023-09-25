@@ -9,3 +9,4 @@ def find_needle(haystack):
         index += 1
         if "needle" not in haystack:
             return f"There is no needle in haystack"
+            
