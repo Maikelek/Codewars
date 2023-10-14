@@ -6,6 +6,6 @@ This collection of code reflects my personal journey to get better at programmin
 | Kyu level | Count | Languages |
 |-----------------|-----------------|-----------------   |
 |       8 Kyu     |       63        |   Python, C, Js    |
-|       7 Kyu     |       18        |   Python, Js       |
+|       7 Kyu     |       19        |   Python, Js       |
 |       6 Kyu     |       3         |   Python           | 
 |       5 Kyu     |       2         |   Python           | 
