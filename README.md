@@ -7,5 +7,5 @@ This collection of code reflects my personal journey to get better at programmin
 |-----------------|-----------------|-----------------   |
 |       8 Kyu     |       69        |   JS, Python, C    |
 |       7 Kyu     |       31        |   JS, Python       |
-|       6 Kyu     |       10        |   JS, Python       | 
+|       6 Kyu     |       11        |   JS, Python       | 
 |       5 Kyu     |       2         |   Python           | 
